@@ -35,9 +35,9 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
-              de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+              Sou estudante de programação na Kenzie Academy Brasil, gosto bastante de inteligência artificial. Amo estudar programação e aprender novos idiomas. Entendo coreano, inglês e um pouco de espanhol.
+              Meu sonho é trabalhar em uma empresa que me dê a oportunidade de crescer profissionalmente. Meu portifólio está curto, porêm em breve quero melhorar para me apresentar no mercado de trabalho.
+              
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
