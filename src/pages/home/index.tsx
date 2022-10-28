@@ -35,8 +35,8 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, gosto bastante de inteligência artificial. Amo estudar programação e aprender novos idiomas. Entendo coreano, inglês e um pouco de espanhol.
-              Meu sonho é trabalhar em uma empresa que me dê a oportunidade de crescer profissionalmente. Meu portifólio está curto, porêm em breve quero melhorar para me apresentar no mercado de trabalho.
+              Sou estudante de programação na Kenzie Academy Brasil, gosto bastante de inteligência artificial. Amo estudar programação e aprender novos idiomas. Tenho nivel avançado em inglês e nivel basico em coreano e espanhol.  
+              Meu sonho é trabalhar em uma empresa que me dê a oportunidade de crescer como pessoa e profissionalmente. Sempre estou evoluindo e aprendendo novas tecnologias, espero encontrar a oportunidade certa no tempo certo. 
               
             </Text>
             <HeaderButtonsArea>
